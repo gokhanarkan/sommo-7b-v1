@@ -93,7 +93,7 @@ Apache 2.0
 
 ```bibtex
 @misc{sommo-ai-v1,
-  author = {Gokhan Arkan},
+  author = {Gökhan Arkan},
   title = {Sommo AI v1: Sommelier LLM},
   year = {2025},
   publisher = {HuggingFace},
