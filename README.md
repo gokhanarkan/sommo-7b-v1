@@ -2,9 +2,11 @@
 
 **A fine-tuned language model for wine recommendations, food pairings, and sommelier-level advice.**
 
-[![Hugging Face](https://img.shields.io/badge/🤗_Model-sommo--7b--v1-yellow)](https://huggingface.co/gokhanarkan/sommo-7b-v1)
-[![App Store](https://img.shields.io/badge/📱_iOS_App-sommo.app-black)](https://sommo.app)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gokhanarkan/sommo-7b-v1/blob/main/Sommo_AI_v1.ipynb)
+[![App Store](https://img.shields.io/badge/📱-sommo.app-black)](https://sommo.app)
+[![Blog](https://img.shields.io/badge/📝-Blog-blue)](https://gokhanarkan.com/blog/sommo-7b-v1)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/gokhanarkan/sommo-7b-v1)
+[![Model on HF](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/gokhanarkan/sommo-7b-v1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JYarYzxoz7B52k5Bem3zq4h23_Kqk7dQ)
 
 > **Note:** This is v1 — a proof of concept. The [Sommo iOS app](https://sommo.app) uses an enhanced v2 model with additional proprietary training data.
 
